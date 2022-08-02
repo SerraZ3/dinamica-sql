@@ -15,11 +15,17 @@ Jogador
 Personagem  (champion)
 - Nome (único)
 - Classe (mago, guerreiro, assassino, arqueiro e curandeiro)
+- Força
+- MP
+- Vida
+- Recuperação
+- Resistência Física
+- Resistência Mágica
 
 Habilidades
 - Nome (único)
 - Descrição
-- nivel mínimo
+- Nivel mínimo
 
 Fase
 - Nome (único)
