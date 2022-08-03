@@ -25,12 +25,12 @@ Personagem  (champion)
 Habilidades
 - Nome (único)
 - Descrição
-- Nivel mínimo
+- Nivel mínimo do personagem
 
-Fase
+Fase do jogo
 - Nome (único)
 - Descrição
-- Nível mínimo
+- Nível mínimo do personagem
 
 ## Regras de negócios
 
@@ -44,6 +44,6 @@ Fase
 
 - Quantos jogadores existem na plataforma?
 - Qual o personagem que os jogadores mais tem? E o que menos tem?
-- Qual fase possui mais jogadores?
+- Qual fase possui mais personagens que podem acessar? E quantos não podem acessar cada fase?
 - Qual média de nível dos personagens?
 
