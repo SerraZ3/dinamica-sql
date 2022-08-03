@@ -16,9 +16,9 @@ Personagem  (champion)
 - Nome (único)
 - Classe (mago, guerreiro, assassino, arqueiro e curandeiro)
 - Força
-- MP
+- MP (Mana Point ou Magic Point)
 - Vida
-- Recuperação
+- Recuperação de vida
 - Resistência Física
 - Resistência Mágica
 
